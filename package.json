@@ -26,7 +26,7 @@
     "ip": "1.1.0",
     "nicercast": "0.1.0",
     "nodetunes": "git://github.com/mishagray/nodetunes#master",
-    "sonos": "git://github.com/mishagray/node-sonos.git#master"
+    "sonos": "git://github.com/kforeman/node-sonos.git#master"
   },
   "license": "MIT",
   "devDependencies": {
